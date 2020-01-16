@@ -1,0 +1,13 @@
+1. Schritt
+sudo cp /usr/bin/padsp /usr/bin/padsp32
+
+2. Schritt:
+sudo apt-get install libpulsedsp:i386
+
+3. Schritt:
+in /usr/bin/padsp32 Pfade ausbessern:
+statt: x86_64-linux
+setzen: i386-linux
+
+4. Schritt:
+in prompts2wav padsp gegen padsp32 tauschen

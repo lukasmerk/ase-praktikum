@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while read line ;
+do
+   filename=`echo $line | awk '{printf "S%03d", $1}'`.wav
+   echo $line ;
+   padsp HSLab noname 2>&1 /dev/null
+   mv noname_0. $filename
+done
