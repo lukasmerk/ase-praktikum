@@ -1,0 +1,3 @@
+$digit = EINS | ZWO | DREI | VIER | FUENF | SECHS | SIEBEN | ACHT | NEUN | NULL;
+$name = [ TOM ] SCHMIDT | [ FLO ] SCHEIBECK | [ MEIKI ] KLEINER | [ LUKAS ] MERK;
+( SENT-START ( WAEHLE <$digit> | RUFE $name) SENT-END )
