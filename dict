@@ -1,22 +1,22 @@
-EINS            aI n s sp
-ZWO             ts v o sp
-DREI            d r aI sp
-VIER            f I r sp
-FUENF           f y n f sp
-SECHS           z e k s sp
-SIEBEN          z I b @ n sp
 ACHT            a x t sp
+DREI            d r aI sp
+EINS            aI n s sp
+FLO             f l o sp
+FUENF           f y n f sp
+KLEINER         k l aI n r sp
+LUKAS           l u k a s sp
+MEIKI           m aI k I sp
+MERK            m e r k sp
 NEUN            n OY n sp
 NULL            n u l sp
 RUFE            r U f @ sp
-WAEHLE          v e l @ sp
-LUKAS           l u k a s sp
-MERK            m e r k sp
-TOM             t o m sp
-SCHMIDT         sh m I t sp
-FLO             f l o sp
 SCHEIBECK       sh aI b @ k sp
-MEIKI           m aI k I sp
-KLEINER         k l aI n r sp
+SCHMIDT         sh m I t sp
+SECHS           z e k s sp
 SENT-END    []  sil sp
 SENT-START  []  sil sp
+SIEBEN          z I b @ n sp
+TOM             t o m sp
+VIER            f I r sp
+WAEHLE          v e l @ sp
+ZWO             ts v o sp
